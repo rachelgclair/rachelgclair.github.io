@@ -17,6 +17,9 @@ body{
   text-align:center;
   padding: 0px;
 }
+ul li{
+  display: inline;
+}
 h{
   font-family: sans-serif;
 }
