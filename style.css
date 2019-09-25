@@ -22,3 +22,8 @@ body{
 h{
   font-family: sans-serif;
 }
+h2{
+  background-color:#33485e;
+  color: white;
+  padding: 5px;
+}
