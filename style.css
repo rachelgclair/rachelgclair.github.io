@@ -5,6 +5,9 @@ body{
   padding-top: 20px;
   padding-bottom: 20px;
 }
+img{
+  float: right;
+}
 .center-top-content{
   text-align: center;
   text-transform: capitalize;
