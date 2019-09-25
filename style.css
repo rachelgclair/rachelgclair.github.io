@@ -9,6 +9,7 @@ body{
 .center-top-content{
   text-align:center;
   text-transform: capitalize;
+  margin: 0px;
 }
 .naviagtion-links{
   text-align:center;
