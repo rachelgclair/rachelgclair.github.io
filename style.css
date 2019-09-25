@@ -5,8 +5,11 @@ body{
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
+.center-top-content{
+  text-align:center;
+  text-transform: capitalize;
+}
 h{
   font-family: sans-serif;
 }
-
-<div 
