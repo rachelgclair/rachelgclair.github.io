@@ -10,6 +10,9 @@ body{
   text-align:center;
   text-transform: capitalize;
 }
+.naviagtion-links{
+  text-align:center;
+}
 h{
   font-family: sans-serif;
 }
