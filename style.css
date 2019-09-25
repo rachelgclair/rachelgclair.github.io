@@ -11,8 +11,9 @@ body{
   margin: 0px;
   color: rgba(255, 255, 255, 0.5);
 }
-.naviagtion-links{
+.naviagtion-links {
   text-align:center;
+  list-style-type: none;
   display: inline;
   padding: 0px;
   margin: 0px;
