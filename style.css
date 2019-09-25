@@ -5,8 +5,10 @@ body{
   padding-top: 20px;
   padding-bottom: 20px;
 }
-img{
+.img{
   float: right;
+  width: 33%;
+  heaight: 33%;
 }
 .center-top-content{
   text-align: center;
