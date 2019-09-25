@@ -7,8 +7,8 @@ body{
 }
 .img{
   float: right;
-  width: 33%;
-  heaight: 33%;
+  max-width: 600px;
+  width: 100%;
 }
 .center-top-content{
   text-align: center;
