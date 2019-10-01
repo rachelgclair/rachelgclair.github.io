@@ -48,7 +48,7 @@ h1 {
   display: inline-block;
 }
 
-#highlight{
+.highlight{
   background color: #33458e;
   padding-top: 3px;
   padding-bottom: 3px;
