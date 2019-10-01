@@ -32,6 +32,15 @@ body{
 h1, h2, h3, h4, h5, h6{
   font-family: 'Roboto', sans-serif;
 }
+.highlight{
+  background color: #33458e;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: white;
+  font-weight: bold;
+}
 
 h1 {
     color: #33485e;
@@ -48,17 +57,6 @@ h1 {
   display: inline-block;
 }
 
-.highlight{
-  background color: #33458e;
-  padding-top: 3px;
-  padding-bottom: 3px;
-  padding-left: 5px;
-  padding-right: 5px;
-  color: white;
-  font-weight: bold;
-}
-
-}
 #main-content
 h2{
   background-color:#33485e;
