@@ -1,36 +1,45 @@
-<link href="https://fonts.google.com/">
 body{
   font-family: serif;
   background: 800px;
   padding-top: 20px;
   padding-bottom: 20px;
-}
-img {
-    max-width: 600px;
-    width: 100%;
-}
-
-body{
   max-width: 800px;
   margin: 20px auto;
-  font-family: 'PT+Serif', serif;
+  font-family: 'PT Serif', serif;
+}
+
+.col-md-3 h1,.col-md-3 p, .col-md-3 img{
+  max-width: 600px;
+  width: 100%;
+  margin-left: 15px;
+  height: 100px;
+  padding:10px;
+  background-clip:content-box;
+}
+.col-md-3me {
+    height: 100px;
+    padding:10px;
 }
 
 .center-top-content{
-  margin: 0 auto 20px;
   max-width: 400px;
-  text-align: center;
-  border-bottom: : 1px solid grey;
+  text-align: left;
+  border-bottom: 1px solid grey;
 }
 .personal-title {
   font-weight: bold;
   color:grey;
+  text-align: left;
   font-style: italic;
 
 }
 
 h1, h2, h3, h4, h5, h6{
   font-family: 'Roboto', sans-serif;
+}
+
+.experience h3, .experience h4, .experience h5 {
+    margin: 5px 0;
 }
 
 h1 {
@@ -48,8 +57,8 @@ h1 {
   display: inline-block;
 }
 
-#highlight{
-  background color: #33458e;
+.highlight{
+  background-color: #33485e;
   padding-top: 3px;
   padding-bottom: 3px;
   padding-left: 5px;
@@ -58,9 +67,7 @@ h1 {
   font-weight: bold;
 }
 
-}
-#main-content
-h2{
+.main-content h2{
   background-color:#33485e;
   color: white;
   padding: 5px;
@@ -72,10 +79,19 @@ h2{
 }
 
 .introduction{
-  line-height: 1.8
+  line-height: 1.8;
+  overflow: auto;
+}
+
+}
+.introduction p{
+    margin-top: 0;
+    overflow: auto;
 }
 
 .introduction img{
-  width: 30%;
-  float: right;
+  width: 200px;
+  height:200px;
+  margin:0;
+  float: left;
 }
