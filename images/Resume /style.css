@@ -11,7 +11,9 @@
         .bd-placeholder-img-lg {
           font-size: 3.5rem;
         }
-      }
+    .carousel-inner.jumbotron{
+        background-color: #FFF7D8;
+    }
 body{
   font-family: serif;
   background: 800px;
